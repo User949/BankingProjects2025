@@ -1,4 +1,4 @@
-# ATM Simulation: Bank Account Management System
+## ATM Simulation: Bank Account Management System
 
 ## Project Description
 This project is a simulation of the backend of an ATM, enabling bank account management through a console application. 
